@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/Ray-ctrlC">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ray-ctrlC&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ray-ctrlC&layout=compact&langs_count=6&theme=gruvbox_light"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ray-ctrlC&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ray-ctrlC&layout=compact&langs_count=6&theme=blue_navy"/>
 </div>
     
 <div style="display: inline_block"><br>
